@@ -4,6 +4,8 @@ welcome to my recepes kitchen
 
 kheer
 Pasta
+Beans
+Pizza
 
 chicken fries
 
